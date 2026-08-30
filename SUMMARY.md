@@ -1,28 +1,81 @@
 # Table of Contents
 
-## Unit 1: Foundations
+# BCA Web Technology: Beginner to Advanced
+
+## Unit 1: Web Foundations
 
 1. [Introduction to Web Technology](chapters/01-introduction-to-web-technology.md)
-2. Internet and the World Wide Web
-3. Web Browsers and Web Servers
-4. URLs, Domains and Web Hosting
+2. Internet and World Wide Web
+3. Client–Server Architecture
+4. Web Browsers and Web Servers
+5. URLs, Domain Names, DNS and Web Hosting
+6. HTTP and HTTPS
 
-## Unit 2: Front-End Technologies
+## Unit 2: HTML
 
-5. HTML
-6. CSS
-7. JavaScript
-8. Responsive Web Design
+7. HTML Fundamentals
+8. Text, Links, Images and Lists
+9. Tables, Forms and Input Elements
+10. Semantic HTML and Multimedia
+11. HTML Best Practices and Accessibility
 
-## Unit 3: Back-End Technologies
+## Unit 3: CSS
 
-9. Server-Side Programming
-10. Databases and Web Applications
-11. Sessions and Cookies
+12. CSS Fundamentals
+13. Selectors, Colors, Units and Typography
+14. Box Model, Display and Positioning
+15. Flexbox and CSS Grid
+16. Responsive Web Design
+17. Transitions, Transformations and Animations
 
-## Unit 4: Advanced Web Concepts
+## Unit 4: JavaScript
 
-12. Web Services and AJAX
-13. Web Security
+18. JavaScript Fundamentals
+19. Variables, Data Types and Operators
+20. Conditions, Loops and Functions
+21. Arrays, Objects and Strings
+22. DOM and Event Handling
+23. Form Validation
+24. Modern JavaScript and Error Handling
 
-> The final units, topics, and numbering will be aligned with the official syllabus and textbook.
+## Unit 5: Front-End Development
+
+25. Bootstrap Fundamentals
+26. Browser Developer Tools and Debugging
+27. Git and GitHub Fundamentals
+28. Building and Publishing a Responsive Website
+
+## Unit 6: Back-End Development
+
+29. Introduction to Server-Side Programming
+30. PHP Fundamentals
+31. PHP Forms and File Handling
+32. Cookies, Sessions and Authentication
+33. Object-Oriented PHP
+
+## Unit 7: Databases
+
+34. Database and SQL Fundamentals
+35. MySQL: Tables and CRUD Operations
+36. Joins, Keys and Relationships
+37. Connecting PHP with MySQL
+38. Building a Database-Driven Web Application
+
+## Unit 8: Advanced Web Technology
+
+39. AJAX and Asynchronous Web Applications
+40. JSON and XML
+41. Web Services and REST APIs
+42. Web Security
+43. Performance Optimization and SEO
+44. Progressive Web Applications and Modern Web Trends
+45. Final Full-Stack Project
+
+## Appendices
+
+A. Important Technical Terms  
+B. HTML, CSS, JavaScript, PHP and SQL Quick Reference  
+C. Practical Programs  
+D. Viva Questions  
+E. Important Exam Questions  
+F. Glossary
