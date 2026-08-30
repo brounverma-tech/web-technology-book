@@ -63,7 +63,7 @@
 
 ## Unit 8: Advanced Web Technology
 
-39. AJAX and Asynchronous Web Applications
+39. [AJAX and Asynchronous Web Applications](chapters/39-ajax-and-asynchronous-web-applications.md)
 40. JSON and XML
 41. Web Services and REST APIs
 42. Web Security
