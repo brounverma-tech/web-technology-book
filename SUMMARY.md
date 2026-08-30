@@ -40,7 +40,7 @@
 
 ## Unit 5: Front-End Development
 
-25. Bootstrap Fundamentals
+25. [Bootstrap Fundamentals](chapters/25-bootstrap-fundamentals.md)
 26. Browser Developer Tools and Debugging
 27. Git and GitHub Fundamentals
 28. Building and Publishing a Responsive Website
