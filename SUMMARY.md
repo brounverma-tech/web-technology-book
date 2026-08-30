@@ -35,7 +35,7 @@
 20. [Conditions, Loops and Functions](chapters/20-conditions-loops-and-functions.md)
 21. [Arrays, Objects and Strings](chapters/21-arrays-objects-and-strings.md)
 22. [DOM and Event Handling](chapters/22-dom-and-event-handling.md)
-23. Form Validation
+23. [Form Validation](chapters/23-form-validation.md)
 24. Modern JavaScript and Error Handling
 
 ## Unit 5: Front-End Development
