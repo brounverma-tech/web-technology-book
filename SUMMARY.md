@@ -5,7 +5,7 @@
 ## Unit 1: Web Foundations
 
 1. [Introduction to Web Technology](chapters/01-introduction-to-web-technology.md)
-2. Internet and World Wide Web
+2. [Internet and World Wide Web](chapters/02-internet-and-world-wide-web.md)
 3. Client–Server Architecture
 4. Web Browsers and Web Servers
 5. URLs, Domain Names, DNS and Web Hosting
