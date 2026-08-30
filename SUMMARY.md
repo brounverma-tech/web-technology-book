@@ -23,7 +23,7 @@
 
 12. [CSS Fundamentals](chapters/12-css-fundamentals.md)
 13. [Selectors, Colors, Units and Typography](chapters/13-selectors-colors-units-and-typography.md)
-14. Box Model, Display and Positioning
+14. [Box Model, Display and Positioning](chapters/14-box-model-display-and-positioning.md)
 15. Flexbox and CSS Grid
 16. Responsive Web Design
 17. Transitions, Transformations and Animations
