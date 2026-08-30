@@ -26,7 +26,7 @@
 14. [Box Model, Display and Positioning](chapters/14-box-model-display-and-positioning.md)
 15. [Flexbox and CSS Grid](chapters/15-flexbox-and-css-grid.md)
 16. [Responsive Web Design](chapters/16-responsive-web-design.md)
-17. Transitions, Transformations and Animations
+17. [Transitions, Transformations and Animations](chapters/17-transitions-transformations-and-animations.md)
 
 ## Unit 4: JavaScript
 
