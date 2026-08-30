@@ -13,7 +13,7 @@
 
 ## Unit 2: HTML
 
-7. HTML Fundamentals
+7. [HTML Fundamentals](chapters/07-html-fundamentals.md)
 8. Text, Links, Images and Lists
 9. Tables, Forms and Input Elements
 10. Semantic HTML and Multimedia
