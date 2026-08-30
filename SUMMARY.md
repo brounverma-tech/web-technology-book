@@ -6,7 +6,7 @@
 
 1. [Introduction to Web Technology](chapters/01-introduction-to-web-technology.md)
 2. [Internet and World Wide Web](chapters/02-internet-and-world-wide-web.md)
-3. Client–Server Architecture
+3. [Client–Server Architecture](chapters/03-client-server-architecture.md)
 4. Web Browsers and Web Servers
 5. URLs, Domain Names, DNS and Web Hosting
 6. HTTP and HTTPS
