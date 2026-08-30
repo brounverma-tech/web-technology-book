@@ -30,7 +30,7 @@
 
 ## Unit 4: JavaScript
 
-18. JavaScript Fundamentals
+18. [JavaScript Fundamentals](chapters/18-javascript-fundamentals.md)
 19. Variables, Data Types and Operators
 20. Conditions, Loops and Functions
 21. Arrays, Objects and Strings
