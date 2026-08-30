@@ -78,4 +78,4 @@ B. [HTML, CSS, JavaScript, PHP and SQL Quick Reference](appendices/b-html-css-ja
 C. [Practical Programs](appendices/c-practical-programs.md)  
 D. [Viva Questions](appendices/d-viva-questions.md)  
 E. [Important Exam Questions](appendices/e-important-exam-questions.md)  
-F. Glossary
+F. [Glossary](appendices/f-glossary.md)
