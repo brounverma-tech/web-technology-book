@@ -50,7 +50,7 @@
 29. [Introduction to Server-Side Programming](chapters/29-introduction-to-server-side-programming.md)
 30. [PHP Fundamentals](chapters/30-php-fundamentals.md)
 31. [PHP Forms and File Handling](chapters/31-php-forms-and-file-handling.md)
-32. Cookies, Sessions and Authentication
+32. [Cookies, Sessions and Authentication](chapters/32-cookies-sessions-and-authentication.md)
 33. Object-Oriented PHP
 
 ## Unit 7: Databases
