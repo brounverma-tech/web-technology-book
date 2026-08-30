@@ -22,7 +22,7 @@
 ## Unit 3: CSS
 
 12. [CSS Fundamentals](chapters/12-css-fundamentals.md)
-13. Selectors, Colors, Units and Typography
+13. [Selectors, Colors, Units and Typography](chapters/13-selectors-colors-units-and-typography.md)
 14. Box Model, Display and Positioning
 15. Flexbox and CSS Grid
 16. Responsive Web Design
