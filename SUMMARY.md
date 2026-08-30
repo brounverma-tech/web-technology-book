@@ -16,7 +16,7 @@
 7. [HTML Fundamentals](chapters/07-html-fundamentals.md)
 8. [Text, Links, Images and Lists](chapters/08-text-links-images-and-lists.md)
 9. [Tables, Forms and Input Elements](chapters/09-tables-forms-and-input-elements.md)
-10. Semantic HTML and Multimedia
+10. [Semantic HTML and Multimedia](chapters/10-semantic-html-and-multimedia.md)
 11. HTML Best Practices and Accessibility
 
 ## Unit 3: CSS
