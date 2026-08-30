@@ -59,7 +59,7 @@
 35. [MySQL: Tables and CRUD Operations](chapters/35-mysql-tables-and-crud-operations.md)
 36. [Joins, Keys and Relationships](chapters/36-joins-keys-and-relationships.md)
 37. [Connecting PHP with MySQL](chapters/37-connecting-php-with-mysql.md)
-38. Building a Database-Driven Web Application
+38. [Building a Database-Driven Web Application](chapters/38-building-a-database-driven-web-application.md)
 
 ## Unit 8: Advanced Web Technology
 
