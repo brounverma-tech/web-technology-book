@@ -65,7 +65,7 @@
 
 39. [AJAX and Asynchronous Web Applications](chapters/39-ajax-and-asynchronous-web-applications.md)
 40. [JSON and XML](chapters/40-json-and-xml.md)
-41. Web Services and REST APIs
+41. [Web Services and REST APIs](chapters/41-web-services-and-rest-apis.md)
 42. Web Security
 43. Performance Optimization and SEO
 44. Progressive Web Applications and Modern Web Trends
