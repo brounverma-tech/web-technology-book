@@ -279,7 +279,7 @@
 
 # U
 
-| Term | Pronunciation | yoo | Simple English Meaning | Hinglish Explanation |
+| Term | Pronunciation | Simple English Meaning | Hinglish Explanation |
 |---|---|---|---|
 | **UI** | U-I | Visual controls through which users interact with software. | Buttons, forms aur menus jise user use karta hai. |
 | **Upload** | UP-lohd | Sending a file from a local device to a server. | Computer/mobile se file server par bhejna. |
