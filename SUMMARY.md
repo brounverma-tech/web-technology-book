@@ -42,7 +42,7 @@
 
 25. [Bootstrap Fundamentals](chapters/25-bootstrap-fundamentals.md)
 26. [Browser Developer Tools and Debugging](chapters/26-browser-developer-tools-and-debugging.md)
-27. Git and GitHub Fundamentals
+27. [Git and GitHub Fundamentals](chapters/27-git-and-github-fundamentals.md)
 28. Building and Publishing a Responsive Website
 
 ## Unit 6: Back-End Development
