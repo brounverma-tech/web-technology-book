@@ -14,7 +14,7 @@
 ## Unit 2: HTML
 
 7. [HTML Fundamentals](chapters/07-html-fundamentals.md)
-8. Text, Links, Images and Lists
+8. [Text, Links, Images and Lists](chapters/08-text-links-images-and-lists.md)
 9. Tables, Forms and Input Elements
 10. Semantic HTML and Multimedia
 11. HTML Best Practices and Accessibility
