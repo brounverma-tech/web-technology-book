@@ -67,7 +67,7 @@
 40. [JSON and XML](chapters/40-json-and-xml.md)
 41. [Web Services and REST APIs](chapters/41-web-services-and-rest-apis.md)
 42. [Web Security](chapters/42-web-security.md)
-43. Performance Optimization and SEO
+43. [Performance Optimization and SEO](chapters/43-performance-optimization-and-seo.md)
 44. Progressive Web Applications and Modern Web Trends
 45. Final Full-Stack Project
 
