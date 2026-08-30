@@ -55,7 +55,7 @@
 
 ## Unit 7: Databases
 
-34. Database and SQL Fundamentals
+34. [Database and SQL Fundamentals](chapters/34-database-and-sql-fundamentals.md)
 35. MySQL: Tables and CRUD Operations
 36. Joins, Keys and Relationships
 37. Connecting PHP with MySQL
