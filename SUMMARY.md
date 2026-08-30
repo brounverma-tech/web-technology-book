@@ -33,7 +33,7 @@
 18. [JavaScript Fundamentals](chapters/18-javascript-fundamentals.md)
 19. [Variables, Data Types and Operators](chapters/19-variables-data-types-and-operators.md)
 20. [Conditions, Loops and Functions](chapters/20-conditions-loops-and-functions.md)
-21. Arrays, Objects and Strings
+21. [Arrays, Objects and Strings](chapters/21-arrays-objects-and-strings.md)
 22. DOM and Event Handling
 23. Form Validation
 24. Modern JavaScript and Error Handling
