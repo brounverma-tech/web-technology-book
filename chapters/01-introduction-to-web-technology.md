@@ -1,6 +1,14 @@
-# Chapter 1: Introduction to Web Technology
+# 💻 Chapter 1: Introduction to Web Technology
 
-## 1.1 Learning Objectives
+![Level](https://img.shields.io/badge/Level-Beginner-brightgreen)
+![Course](https://img.shields.io/badge/Course-BCA-blue)
+![Unit](https://img.shields.io/badge/Unit-Web%20Foundations-purple)
+![Language](https://img.shields.io/badge/Language-English%20%2B%20Hinglish-orange)
+
+> [!TIP]
+> **Chapter Goal:** Web Technology ko bilkul basic level se samajhna aur website, web page, browser, server aur web application jaise terms ko clear karna.
+
+## 🎯 1.1 Learning Objectives
 
 After completing this chapter, you will be able to:
 
@@ -14,7 +22,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-## 1.2 Difficult Words: Pronunciation and Meaning
+## 🗣️ 1.2 Difficult Words: Pronunciation and Meaning
 
 | Word | Pronunciation | Simple Meaning |
 |---|---|---|
@@ -34,7 +42,7 @@ After completing this chapter, you will be able to:
 
 ---
 
-## 1.3 Meaning of Web Technology
+## 💡 1.3 Meaning of Web Technology
 
 ### 1.3.1 English Explanation
 
@@ -72,7 +80,7 @@ Jab hum kisi shopping website par product search karte hain:
 
 ---
 
-## 1.4 Internet and World Wide Web
+## 🌐 1.4 Internet and World Wide Web
 
 ### 1.4.1 Internet
 
@@ -112,11 +120,12 @@ World Wide Web web pages, images, videos aur dusre resources ka collection hai. 
 | Requirement | Uses networking hardware and protocols | Uses Internet, browser, HTTP/HTTPS and URLs |
 | Example | The road network | A service running on those roads |
 
-**Remember:** Internet aur WWW same nahi hain. Web, Internet par chalne wali ek service hai.
+> [!IMPORTANT]
+> **Remember:** Internet aur WWW same nahi hain. Web, Internet par chalne wali ek service hai.
 
 ---
 
-## 1.5 Important Web Terms
+## 📖 1.5 Important Web Terms
 
 ### 1.5.1 Web Page
 
@@ -198,7 +207,7 @@ A hyperlink is a clickable text, image or element that takes the user to another
 
 ---
 
-## 1.6 Basic Components of Web Technology
+## 🧩 1.6 Basic Components of Web Technology
 
 ### 1.6.1 Client
 
@@ -245,7 +254,7 @@ A database stores organized data used by a web application.
 
 ---
 
-## 1.7 How a Website Works
+## 🔄 1.7 How a Website Works
 
 When a user opens a website, the following basic steps occur:
 
@@ -270,7 +279,7 @@ User browser me address enter karta hai. Browser server ko page ki request bhejt
 
 ---
 
-## 1.8 Static and Dynamic Websites
+## ⚖️ 1.8 Static and Dynamic Websites
 
 ### 1.8.1 Static Website
 
@@ -297,7 +306,7 @@ A dynamic website can generate or change content according to the user, stored d
 
 ---
 
-## 1.9 Website vs Web Application
+## 🆚 1.9 Website vs Web Application
 
 | Basis | Website | Web Application |
 |---|---|---|
@@ -307,11 +316,12 @@ A dynamic website can generate or change content according to the user, stored d
 | Data processing | Limited | Extensive |
 | Example | News or information site | Gmail or online banking |
 
-**Note:** Modern websites often include application-like features, so the boundary between a website and a web application is not always strict.
+> [!NOTE]
+> Modern websites often include application-like features, so the boundary between a website and a web application is not always strict.
 
 ---
 
-## 1.10 Types of Websites
+## 🗂️ 1.10 Types of Websites
 
 ### 1.10.1 Personal Website
 
@@ -347,7 +357,7 @@ Provides multiple services and resources through a common entry point.
 
 ---
 
-## 1.11 Uses of Web Technology
+## 🛠️ 1.11 Uses of Web Technology
 
 Web Technology is used in:
 
@@ -364,7 +374,7 @@ Web Technology is used in:
 
 ---
 
-## 1.12 Advantages of Web Technology
+## ✅ 1.12 Advantages of Web Technology
 
 1. **Global access:** Web resources can be accessed from different locations.
 2. **Easy communication:** Information can be shared quickly.
@@ -376,7 +386,7 @@ Web Technology is used in:
 
 ---
 
-## 1.13 Limitations and Challenges
+## ⚠️ 1.13 Limitations and Challenges
 
 1. Many web services require an Internet connection.
 2. Slow connections can reduce performance.
@@ -388,7 +398,7 @@ Web Technology is used in:
 
 ---
 
-## 1.14 First HTML Example
+## 🧪 1.14 First HTML Example
 
 HTML is used to create the structure of a web page.
 
@@ -420,7 +430,7 @@ Detailed HTML will be covered in later chapters.
 
 ---
 
-## 1.15 Common Mistakes
+## 🚫 1.15 Common Mistakes
 
 1. Treating the Internet and WWW as the same thing.
 2. Calling every web page a complete website.
@@ -431,7 +441,7 @@ Detailed HTML will be covered in later chapters.
 
 ---
 
-## 1.16 Key Points to Remember
+## 📌 1.16 Key Points to Remember
 
 1. Internet is a global network; the Web is a service that uses it.
 2. A web page is one document, while a website is a collection of related pages.
@@ -443,13 +453,13 @@ Detailed HTML will be covered in later chapters.
 
 ---
 
-## 1.17 Chapter Summary
+## 📝 1.17 Chapter Summary
 
 Web Technology includes the tools, languages, protocols and methods used to create and operate websites and web applications. The Internet provides the worldwide network, while the World Wide Web provides linked pages and resources through that network. A browser sends a request to a server, and the server returns a response. HTML, CSS and JavaScript form the front end, while server-side technologies and databases support the back end. Websites may be static or dynamic and are used in education, business, banking, communication, entertainment and many other fields.
 
 ---
 
-## 1.18 Multiple-Choice Questions
+## 🎲 1.18 Multiple-Choice Questions
 
 ### 1. The World Wide Web is:
 
@@ -458,7 +468,7 @@ B. A collection of connected web resources
 C. A programming language  
 D. A web browser  
 
-**Answer:** B
+**✅ Answer:** B
 
 ### 2. Which software is used to open web pages?
 
@@ -467,7 +477,7 @@ B. Browser
 C. Database  
 D. Printer  
 
-**Answer:** B
+**✅ Answer:** B
 
 ### 3. Which technology defines the structure of a web page?
 
@@ -476,7 +486,7 @@ B. CSS
 C. SQL  
 D. HTTP  
 
-**Answer:** A
+**✅ Answer:** A
 
 ### 4. Which component normally sends a request?
 
@@ -485,7 +495,7 @@ B. Client
 C. Server rack  
 D. Domain name  
 
-**Answer:** B
+**✅ Answer:** B
 
 ### 5. Which website type usually shows automatically changing content?
 
@@ -494,11 +504,11 @@ B. Dynamic website
 C. Printed website  
 D. Offline website  
 
-**Answer:** B
+**✅ Answer:** B
 
 ---
 
-## 1.19 Short-Answer Questions
+## ❓ 1.19 Short-Answer Questions
 
 1. Define Web Technology.
 2. What is the Internet?
@@ -513,7 +523,7 @@ D. Offline website
 
 ---
 
-## 1.20 Long-Answer and Exam Questions
+## 📚 1.20 Long-Answer and Exam Questions
 
 1. Explain Web Technology and its major components.
 2. Differentiate between the Internet and the World Wide Web.
@@ -526,7 +536,7 @@ D. Offline website
 
 ---
 
-## 1.21 Practical Exercises
+## ✍️ 1.21 Practical Exercises
 
 1. Open any website and identify its home page, URL and hyperlinks.
 2. Write five examples each of websites and web applications.
@@ -537,7 +547,7 @@ D. Offline website
 
 ---
 
-## 1.22 Viva Questions
+## 🎤 1.22 Viva Questions
 
 1. Is the Internet the same as the Web?
 2. What does a browser do?
@@ -552,7 +562,7 @@ D. Offline website
 
 ---
 
-## 1.23 Answers to Selected Viva Questions
+## ✅ 1.23 Answers to Selected Viva Questions
 
 1. **No.** The Internet is the network, while the Web is a service that works through it.
 2. A browser requests, receives and displays web content.
@@ -564,3 +574,8 @@ D. Offline website
 8. An online shopping website is dynamic.
 9. HTTPS protects communication using encryption; basic HTTP does not provide that protection.
 10. No. HTML is a markup language.
+
+
+---
+
+[📚 Table of Contents](../SUMMARY.md) · [Next Chapter: Internet and World Wide Web ➡️](02-internet-and-world-wide-web.md)
