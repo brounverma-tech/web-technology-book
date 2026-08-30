@@ -48,7 +48,7 @@
 ## Unit 6: Back-End Development
 
 29. [Introduction to Server-Side Programming](chapters/29-introduction-to-server-side-programming.md)
-30. PHP Fundamentals
+30. [PHP Fundamentals](chapters/30-php-fundamentals.md)
 31. PHP Forms and File Handling
 32. Cookies, Sessions and Authentication
 33. Object-Oriented PHP
