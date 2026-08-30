@@ -9,7 +9,7 @@
 3. [Client–Server Architecture](chapters/03-client-server-architecture.md)
 4. [Web Browsers and Web Servers](chapters/04-web-browsers-and-web-servers.md)
 5. [URLs, Domain Names, DNS and Web Hosting](chapters/05-urls-domain-names-dns-and-web-hosting.md)
-6. HTTP and HTTPS
+6. [HTTP and HTTPS](chapters/06-http-and-https.md)
 
 ## Unit 2: HTML
 
