@@ -74,7 +74,7 @@
 ## Appendices
 
 A. [Important Technical Terms](appendices/a-important-technical-terms.md)  
-B. HTML, CSS, JavaScript, PHP and SQL Quick Reference  
+B. [HTML, CSS, JavaScript, PHP and SQL Quick Reference](appendices/b-html-css-javascript-php-sql-quick-reference.md)  
 C. Practical Programs  
 D. Viva Questions  
 E. Important Exam Questions  
