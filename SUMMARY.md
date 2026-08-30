@@ -69,7 +69,7 @@
 42. [Web Security](chapters/42-web-security.md)
 43. [Performance Optimization and SEO](chapters/43-performance-optimization-and-seo.md)
 44. [Progressive Web Applications and Modern Web Trends](chapters/44-progressive-web-applications-and-modern-web-trends.md)
-45. Final Full-Stack Project
+45. [Final Full-Stack Project](chapters/45-final-full-stack-project.md)
 
 ## Appendices
 
