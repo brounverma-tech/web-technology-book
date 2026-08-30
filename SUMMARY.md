@@ -51,7 +51,7 @@
 30. [PHP Fundamentals](chapters/30-php-fundamentals.md)
 31. [PHP Forms and File Handling](chapters/31-php-forms-and-file-handling.md)
 32. [Cookies, Sessions and Authentication](chapters/32-cookies-sessions-and-authentication.md)
-33. Object-Oriented PHP
+33. [Object-Oriented PHP](chapters/33-object-oriented-php.md)
 
 ## Unit 7: Databases
 
