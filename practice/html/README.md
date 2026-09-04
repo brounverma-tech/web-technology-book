@@ -29,8 +29,8 @@ Har practical ke liye ye process follow karo:
 | 06 | [Tables](06-html-tables/TASK.md) | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Completed |
 | 07 | [Forms and Input Elements](07-html-forms/TASK.md) | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Completed |
 | 08 | [Semantic HTML](08-semantic-html/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Completed |
-| 09 | [Multimedia: Audio and Video](09-audio-video/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Start here |
-| 10 | Personal Profile Page | Chapters 7–11 | Mini project |
+| 09 | [Multimedia: Audio and Video](09-audio-video/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Completed |
+| 10 | [Final Personal Profile Project](10-final-profile-project/TASK.md) | Chapters 7–11 | In progress |
 
 ## Important Rule
 
