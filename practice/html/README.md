@@ -28,8 +28,8 @@ Har practical ke liye ye process follow karo:
 | 05 | [Ordered and Unordered Lists](05-html-lists/TASK.md) | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Completed |
 | 06 | [Tables](06-html-tables/TASK.md) | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Completed |
 | 07 | [Forms and Input Elements](07-html-forms/TASK.md) | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Completed |
-| 08 | [Semantic HTML](08-semantic-html/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Start here |
-| 09 | Multimedia: Audio and Video | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Upcoming |
+| 08 | [Semantic HTML](08-semantic-html/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Completed |
+| 09 | [Multimedia: Audio and Video](09-audio-video/TASK.md) | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Start here |
 | 10 | Personal Profile Page | Chapters 7–11 | Mini project |
 
 ## Important Rule
