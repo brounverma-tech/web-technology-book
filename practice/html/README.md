@@ -24,8 +24,8 @@ Har practical ke liye ye process follow karo:
 | 01 | [Basic HTML Page](01-basic-page/TASK.md) | [Chapter 7](../../chapters/07-html-fundamentals.md) | Completed |
 | 02 | [Headings, Paragraphs and Text](02-headings-paragraphs/TASK.md) | [Chapter 7](../../chapters/07-html-fundamentals.md) | Completed |
 | 03 | [Links and Buttons](03-links-buttons/TASK.md) | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Completed |
-| 04 | [Images and File Paths](04-images-paths/TASK.md) | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Start here |
-| 05 | Ordered and Unordered Lists | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Upcoming |
+| 04 | [Images and File Paths](04-images-paths/TASK.md) | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Completed |
+| 05 | [Ordered and Unordered Lists](05-html-lists/TASK.md) | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Start here |
 | 06 | Tables | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Upcoming |
 | 07 | Forms and Input Elements | [Chapter 9](../../chapters/09-tables-forms-and-input-elements.md) | Upcoming |
 | 08 | Semantic HTML and Multimedia | [Chapter 10](../../chapters/10-semantic-html-and-multimedia.md) | Upcoming |
