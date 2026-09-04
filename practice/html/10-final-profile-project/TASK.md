@@ -43,6 +43,8 @@ Project ko ek saath nahi, three small phases mein complete karenge.
 - Projects section
 - GitHub profile link
 
+Read: [Phase 2 Instructions](PHASE-2.md)
+
 ### Phase 3: Contact and Completion
 
 - Contact form
@@ -76,7 +78,7 @@ Project ko ek saath nahi, three small phases mein complete karenge.
 
 ## Completion Checklist
 
-- [ ] Phase 1 complete
+- [x] Phase 1 complete
 - [ ] Phase 2 complete
 - [ ] Phase 3 complete
 - [ ] All navigation links work
