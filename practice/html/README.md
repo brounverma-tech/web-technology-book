@@ -21,8 +21,8 @@ Har practical ke liye ye process follow karo:
 
 | No. | Practical | Related Theory | Status |
 |---|---|---|---|
-| 01 | [Basic HTML Page](01-basic-page/TASK.md) | [Chapter 7](../../chapters/07-html-fundamentals.md) | Start here |
-| 02 | Headings, Paragraphs and Text | [Chapter 7](../../chapters/07-html-fundamentals.md) | Upcoming |
+| 01 | [Basic HTML Page](01-basic-page/TASK.md) | [Chapter 7](../../chapters/07-html-fundamentals.md) | Completed |
+| 02 | [Headings, Paragraphs and Text](02-headings-paragraphs/TASK.md) | [Chapter 7](../../chapters/07-html-fundamentals.md) | Start here |
 | 03 | Links and Buttons | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Upcoming |
 | 04 | Images and File Paths | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Upcoming |
 | 05 | Ordered and Unordered Lists | [Chapter 8](../../chapters/08-text-links-images-and-lists.md) | Upcoming |
