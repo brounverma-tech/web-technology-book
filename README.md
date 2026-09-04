@@ -20,8 +20,15 @@ This book is designed for beginners. Every topic will be explained from the basi
 
 Open the [Table of Contents](SUMMARY.md) to browse the chapters.
 
+## HTML Practical Track
+
+Learn HTML by writing code step by step:
+
+- [Open the HTML Practical Roadmap](practice/html/README.md)
+- [Start Practical 01: Basic HTML Page](practice/html/01-basic-page/TASK.md)
+
 ## Author
 
 **Broun Verma**
 
-> This book is under development. New chapters will be added step by step.
+> This book is under development. New chapters and practicals will be added step by step.
